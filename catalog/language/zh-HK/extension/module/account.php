@@ -3,8 +3,8 @@
 $_['heading_title']    = '會員中心';
 
 // Text
-$_['text_register']    = '會員註冊';
-$_['text_login']       = '會員登入';
+$_['text_register']    = '註冊';
+$_['text_login']       = '登入';
 $_['text_logout']      = '登出';
 $_['text_forgotten']   = '忘記密碼';
 $_['text_account']     = '我的帳戶';
