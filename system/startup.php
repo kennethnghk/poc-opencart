@@ -45,6 +45,8 @@ if ((isset($_SERVER['HTTPS']) && (($_SERVER['HTTPS'] == 'on') || ($_SERVER['HTTP
 	$_SERVER['HTTPS'] = false;
 }
 
+#ini_set('session.cookie_domain', 'kenlab.me');
+
 // Modification Override
 function modification($filename) {
 	if (defined('DIR_CATALOG')) {
