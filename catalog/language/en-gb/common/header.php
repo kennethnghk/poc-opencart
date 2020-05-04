@@ -1,7 +1,11 @@
 <?php
 // Text
 $_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish List (%s)';
+// Edit by Plazathemes
+$_['text_wishlist']      = '<span class="text-wishlist">Wish List</span> <span class="txt-count">%s</span>';
+$_['text_header']      = 'Mid-season sale up to 20% OFF. Use code “SALEOFF20”';
+$_['text_header_phone']      = 'Customer Support';
+// End edit
 $_['text_shopping_cart'] = 'Shopping Cart';
 $_['text_category']      = 'Categories';
 $_['text_account']       = 'My Account';
