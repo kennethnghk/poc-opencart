@@ -2,3 +2,4 @@ image/cache
 image/catalog
 .htpasswd
 phpMyAdmin
+system/storage
