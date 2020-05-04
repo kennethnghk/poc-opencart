@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_home']      = '首 頁';
-$_['text_wishlist'] = '我的清單(%s)';
+$_['text_wishlist'] = '%s';
 $_['text_shopping_cart']  = '購物車';
 $_['text_category']      = '目錄';
 $_['text_account']       = '會員中心';
